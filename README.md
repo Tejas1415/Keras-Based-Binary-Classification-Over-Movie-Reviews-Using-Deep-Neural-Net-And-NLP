@@ -6,3 +6,6 @@ These reviews/words are generally encoded through different values using diction
 
 The code was developed with reference to an example code in the book "Deep learning with Python" with some improvisations and comprehensible conversions of the code. 
 
+The code is well commented and self-evident.
+
+For further doubts, feel free to contact tejastk.reddy@gmail.com
